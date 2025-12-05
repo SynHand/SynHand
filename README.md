@@ -1,6 +1,7 @@
 # SynHand
 
-![SynHand Logo](<img width="1280" height="320" alt="Prioritize your health" src="https://github.com/user-attachments/assets/733ab809-9083-4169-ac02-69b8d1a332ed" />
+![SynHand Logo](<img width="1280" height="320" alt="fre" src="https://github.com/user-attachments/assets/97baac66-dd59-4f77-9bf3-2ca02fb09f88" />
+
 )
 
 **SynHand** é um MVP de backend para reconhecimento de sinais de Libras
